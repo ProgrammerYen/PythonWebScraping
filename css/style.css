@@ -1,0 +1,44 @@
+h1, h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    margin-left: 8px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+hr {
+    border: none;
+    background-color: rgb(200, 200, 200);
+    height: 0.5px;
+}
+
+button {
+    margin-top: 1px;
+    margin-bottom: 6px;
+    padding: 9px;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    font-size: 13px;
+}
+
+.course-info {
+    margin-left: 8px;
+}
+
+.python {
+    font-size: 15px;
+    background-color: rgb(242, 242, 242);
+}
+
+.python-text {
+    padding-left: 15px;
+    padding-right: 15px;
+}
